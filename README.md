@@ -13,6 +13,7 @@ An in game mod settings menu for Deep Rock Galactic.
 
 ## Usage
 Press key bind (`B` by default) in game to open menu.
+You can also use `shift+F9`.
 
 ## For modders
 
@@ -24,6 +25,7 @@ IHub:
 - SelectPage
 - Close Hub
 - Open Hub
+- WriteLog
 
 IHubMod:
 - ModRegistered
